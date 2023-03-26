@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-16T18:49:17 IST" name="Suite" finished-at="2023-02-16T18:49:17 IST" duration-ms="190">
+    <groups>
+    </groups>
+    <test started-at="2023-02-16T18:49:17 IST" name="Test" finished-at="2023-02-16T18:49:17 IST" duration-ms="190">
+      <class name="CommunitCloud.Biogen.SBIZ">
+        <test-method signature="PersonalLoanRateOfInterest()[pri:0, instance:CommunitCloud.Biogen.SBIZ@27f981c6]" started-at="2023-02-16T18:49:17 IST" name="PersonalLoanRateOfInterest" finished-at="2023-02-16T18:49:17 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PersonalLoanRateOfInterest -->
+        <test-method signature="carLoanRateOfInterest()[pri:0, instance:CommunitCloud.Biogen.SBIZ@27f981c6]" started-at="2023-02-16T18:49:17 IST" name="carLoanRateOfInterest" finished-at="2023-02-16T18:49:17 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carLoanRateOfInterest -->
+        <test-method signature="goldLoanReateOfInterest()[pri:0, instance:CommunitCloud.Biogen.SBIZ@27f981c6]" started-at="2023-02-16T18:49:17 IST" name="goldLoanReateOfInterest" finished-at="2023-02-16T18:49:17 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goldLoanReateOfInterest -->
+      </class> <!-- CommunitCloud.Biogen.SBIZ -->
+      <class name="CommunitCloud.Biogen.HDFCZ">
+        <test-method signature="PersonalLoanRateOfInterest()[pri:0, instance:CommunitCloud.Biogen.HDFCZ@36916eb0]" started-at="2023-02-16T18:49:17 IST" name="PersonalLoanRateOfInterest" finished-at="2023-02-16T18:49:17 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PersonalLoanRateOfInterest -->
+        <test-method signature="carLoanRateOfInterest()[pri:0, instance:CommunitCloud.Biogen.HDFCZ@36916eb0]" started-at="2023-02-16T18:49:17 IST" name="carLoanRateOfInterest" finished-at="2023-02-16T18:49:17 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carLoanRateOfInterest -->
+        <test-method signature="goldLoanReateOfInterest()[pri:0, instance:CommunitCloud.Biogen.HDFCZ@36916eb0]" started-at="2023-02-16T18:49:17 IST" name="goldLoanReateOfInterest" finished-at="2023-02-16T18:49:17 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goldLoanReateOfInterest -->
+      </class> <!-- CommunitCloud.Biogen.HDFCZ -->
+      <class name="CommunitCloud.Biogen.HSBCZ">
+        <test-method signature="PersonalLoanRateOfInterest()[pri:0, instance:CommunitCloud.Biogen.HSBCZ@1b11171f]" started-at="2023-02-16T18:49:17 IST" name="PersonalLoanRateOfInterest" finished-at="2023-02-16T18:49:17 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PersonalLoanRateOfInterest -->
+        <test-method signature="carLoanRateOfInterest()[pri:0, instance:CommunitCloud.Biogen.HSBCZ@1b11171f]" started-at="2023-02-16T18:49:17 IST" name="carLoanRateOfInterest" finished-at="2023-02-16T18:49:17 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carLoanRateOfInterest -->
+        <test-method signature="goldLoanReateOfInterest()[pri:0, instance:CommunitCloud.Biogen.HSBCZ@1b11171f]" started-at="2023-02-16T18:49:17 IST" name="goldLoanReateOfInterest" finished-at="2023-02-16T18:49:17 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goldLoanReateOfInterest -->
+      </class> <!-- CommunitCloud.Biogen.HSBCZ -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
